@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-I am a passionate **React Developer** and **Front-End Developer** with experience in building dynamic and user-friendly websites. I enjoy translating designs into code and continuously learning new technologies.
+I am a passionate **React Developer** with experience in building dynamic and user-friendly websites. I enjoy translating designs into code and continuously learning new technologies.
 
 - 🧑‍💻 Currently working with React.js and JavaScript to create web applications.
 - 🎨 Love creating beautiful UIs using modern web technologies like CSS3, HTML5, Tailwind CSS, and JavaScript.
