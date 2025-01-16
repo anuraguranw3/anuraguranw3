@@ -1,10 +1,46 @@
 <h1 align="center">Hi 👋, I'm Anurag Uranw</h1>
-<h4 align="left">FrontEnd Developer</h4> 
+<h3 align="center">React Developer | Front-End Developer | Passionate about building beautiful and functional web applications</h3>
 
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-uranw-b07534267/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/anuraguranw3" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:anurag.uranw@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+I am a passionate **React Developer** and **Front-End Developer** with experience in building dynamic and user-friendly websites. I enjoy translating designs into code and continuously learning new technologies.
+
+- 🧑‍💻 Currently working with React.js and JavaScript to create web applications.
+- 🎨 Love creating beautiful UIs using modern web technologies like CSS3, HTML5, Tailwind CSS, and JavaScript.
+- 📚 Always learning and exploring new frameworks and libraries.
+
+---
+
+## 🛠️ Skills
+
+### **Languages:**
+- JavaScript
+- C
+- C++
+
+### **Frontend Development:**
+- HTML5
+- CSS3
+- Tailwind CSS
+- React.js
+
+### **Tools & Technologies:**
+- **Version Control**: Git, GitHub
+- **Package Manager**: npm
+- **Code Editor**: Visual Studio Code (VS Code)
+---
 
 
+## 💬 Let's Connect!
+Feel free to reach out to me via my social media or send me an email:
+
+- [LinkedIn](https://www.linkedin.com/in/anurag-uranw-b07534267/)
+- [GitHub](https://github.com/anuraguranw3)
+- Email: [anuraguranw3@gmail.com](mailto:anuraguranw3@gmail.com)
