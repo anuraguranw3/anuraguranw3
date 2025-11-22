@@ -29,8 +29,8 @@ I am a **Full-Stack Developer** with hands-on experience in both **front-end** a
 ### **Frontend Development:**
 - HTML5
 - CSS3
-- **Tailwind CSS**
-- **React.js**
+- Tailwind CSS
+- React.js
 - EJS (for server-side templating)
 
 ### **Backend Development:**
